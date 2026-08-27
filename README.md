@@ -1,15 +1,13 @@
-### 你好，我是牛油果 👋
-
-专注于 **Web 应用开发** 与 **开源工具** 构建，目前在 [@jd-opensource](https://github.com/jd-opensource) 参与开源贡献。
-
----
-
-#### 🛠 技术栈
-
-**前端** — React · Vue · TypeScript · Vite
-
-**后端** — Spring · Spring Boot · MySQL · Redis · RabbitMQ
-
-**工程化** — Linux · Docker · GitHub Actions · Git
-
-![Tech stack](https://simpleicons.dev/icons?icons=react,vuedotjs,typescript,vite,spring,springboot,mysql,redis,rabbitmq,linux,docker,githubactions,git&theme=light)
+<p align="left">
+  <samp>
+    <a href="https://avotokyo.com">me</a> .
+    <a href="https://blog.avotokyo.com">blog</a> .
+    <a href="https://x.com/avotokyo02">X</a> .
+    <a href="https://v.avotokyo.run">v</a> .
+    <a href="https://tools.avotokyo.run">tools</a> .
+    <a href="https://game.avotokyo.run">game</a> .
+    <a href="https://50.avotokyo.run/">50</a> .
+    <a href="https://space.bilibili.com/174865648">bilibili</a> .
+    <a href="https://afdian.com/a/avotokyo">爱发电</a>
+  </samp>
+</p>
